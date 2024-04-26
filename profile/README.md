@@ -11,5 +11,5 @@ Our repositories are organised in three groups:
 
 *3)* and there is an implementation in C++ [elykseer-cpp](https://github.com/eLyKseeR/elykseer-cpp)
 
-Our logo shows an elephant. It is a symbol for good memory and keeping a secret private.
+Our logo shows an elephant. It is a symbol for good memory and being strong to defend a secret.
 So we aim at creating a software system that makes it simple to store data for years to come while also providing best cryptographic protection.
