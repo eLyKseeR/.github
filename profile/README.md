@@ -14,7 +14,13 @@ Our repositories are organised in three groups:
 Our logo shows an elephant. It is a symbol for good memory and being strong to defend a secret.
 So we aim at creating a software system that makes it simple to store data for years to come while also providing best cryptographic protection.
 
-### Support our work
+### talk to me
+
+let's have a [coffee chat](https://calendly.com/avd-oiog/coffee-chat)  ☕ 
+
+I maintain daily slots for having interesting conversations. This link leads to _calendly_ to make a reservation.
+
+### support our work
 
 You can support our work either within Github by becoming a _sponsor_ or on [https://buymeacoffee.com/elykseer](https://buymeacoffee.com/elykseer). Thank you!
 
