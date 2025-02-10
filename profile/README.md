@@ -2,7 +2,7 @@
 
 This is the home of _eLyKseeR_ the cryptographic data archive.
 
-(an alternative repository on [![Gitlab](gitlab-logo.png)](https://gitlab.com/elykseer))
+(alternative repository locations on:  [![Gitlab](gitlab-logo.png)](https://gitlab.com/elykseer))
 
 Our repositories are organised in three groups:
 
@@ -15,12 +15,6 @@ Our repositories are organised in three groups:
 
 Our logo shows an elephant. It is a symbol for good memory and being strong to defend a secret.
 So we aim at creating a software system that makes it simple to store data for years to come while also providing best cryptographic protection.
-
-### talk to me
-
-let's have a [coffee chat](https://calendly.com/avd-oiog/coffee-chat)  ☕ 
-
-I maintain daily slots for having interesting conversations. This link leads to _calendly_ to make a reservation.
 
 ### support our work
 
