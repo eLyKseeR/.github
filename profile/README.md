@@ -2,6 +2,8 @@
 
 This is the home of _eLyKseeR_ the cryptographic data archive.
 
+(an alternative repository on [![Gitlab](gitlab-logo.png)](https://gitlab.com/elykseer))
+
 Our repositories are organised in three groups:
 
 *1)* at the base is our formal specification and validation in Coq/Rocq [elykseer-ml](https://github.com/eLyKseeR/elykseer-ml)
