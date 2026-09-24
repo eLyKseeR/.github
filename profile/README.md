@@ -2,7 +2,7 @@
 
 This is the home of _eLyKseeR_ the cryptographic data archive.
 
-(alternative repository locations on:  [![Gitlab](gitlab-logo.png)](https://gitlab.com/elykseer))
+(alternative repository locations on:  [![Gitlab](gitlab-logo.png)](https://gitlab.com/elykseer)), [codeberg](https://codeberg.org/elykseer)
 
 Our repositories are organised in three groups:
 
